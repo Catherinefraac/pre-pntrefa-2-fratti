@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.titulo-principal{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.paddingimgprincipal{
+    padding-top: 1px;
+    padding-left: 200px;
+    padding-bottom: 1px;
+    padding-right: 150px;
+}
+.centrar{
+    text-align: center;
+} 
+.alinear-izquierda{
+    text-align: right
+}
+.card{
+    width: 200px;
+    height: 300px;
+}
+.imgpestañas{
+    margin-left: 200px;
+}
+.imgcejas{
+    margin-left: 200px;
+}
+.imgmanicura{
+    margin-left: 200px;
+}
+.enlacesindex{
+    margin-left: 200px;
+}
+.colorfonfo{
+    background-color: rgb(192, 164, 127);
+}
+.enlaceregistro {
+    margin-left: 1100px;
+}
+ .cardimgf{
+    width: 30px;
+    height: 30px;
+ }   
+ .marginimgf{
+    margin-left: 1150px;
+    margin-top: 5px;
+ }
+ .marginfooter{
+margin-top: 300px; 
+}
+ 
